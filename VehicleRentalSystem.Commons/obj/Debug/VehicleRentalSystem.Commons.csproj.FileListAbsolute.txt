@@ -1,0 +1,8 @@
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\VehicleRentalSystemApp\VehicleRentalSystem.Commons\obj\Debug\VehicleRentalSystem.Commons.csprojAssemblyReference.cache
+D:\Projects\Project\C#\Windows Forms Application (.NET Freamwork)\VehicleRentalSystemApp\VehicleRentalSystem.Commons\obj\Debug\VehicleRentalSystem.Commons.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\bin\Debug\VehicleRentalSystem.Commons.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\bin\Debug\VehicleRentalSystem.Commons.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\bin\Debug\VehicleRentalSystem.Commons.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\obj\Debug\VehicleRentalSystem.Commons.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\obj\Debug\VehicleRentalSystem.Commons.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Commons\obj\Debug\VehicleRentalSystem.Commons.pdb

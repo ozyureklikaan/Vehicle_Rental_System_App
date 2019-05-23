@@ -1,0 +1,5 @@
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Models\bin\Debug\VehicleRentalSystem.Models.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Models\bin\Debug\VehicleRentalSystem.Models.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Models\obj\Debug\VehicleRentalSystem.Models.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Models\obj\Debug\VehicleRentalSystem.Models.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.Models\obj\Debug\VehicleRentalSystem.Models.pdb

@@ -1,0 +1,16 @@
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.BusinessLogic.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.BusinessLogic.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.BusinessLogic.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.Commons.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.DataAccess.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.Models.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.Commons.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.Commons.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.DataAccess.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.DataAccess.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\bin\Debug\VehicleRentalSystem.Models.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\obj\Debug\VehicleRentalSystem.BusinessLogic.csprojAssemblyReference.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\obj\Debug\VehicleRentalSystem.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\obj\Debug\VehicleRentalSystem.BusinessLogic.csproj.CopyComplete
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\obj\Debug\VehicleRentalSystem.BusinessLogic.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.BusinessLogic\obj\Debug\VehicleRentalSystem.BusinessLogic.pdb

@@ -1,0 +1,13 @@
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.DataAccess.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.DataAccess.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.DataAccess.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.Commons.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.Models.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.Commons.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.Commons.dll.config
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\bin\Debug\VehicleRentalSystem.Models.pdb
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\obj\Debug\VehicleRentalSystem.DataAccess.csprojAssemblyReference.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\obj\Debug\VehicleRentalSystem.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\obj\Debug\VehicleRentalSystem.DataAccess.csproj.CopyComplete
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\obj\Debug\VehicleRentalSystem.DataAccess.dll
+C:\Users\ozyur\Desktop\VehicleRentalSystemApp\VehicleRentalSystem.DataAccess\obj\Debug\VehicleRentalSystem.DataAccess.pdb
